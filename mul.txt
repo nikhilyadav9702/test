@@ -1,1 +1,1 @@
-a*b
+Finnaly multiply 2 nos
